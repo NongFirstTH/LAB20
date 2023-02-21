@@ -18,5 +18,4 @@ return A;
 return 0;
 }
 
-
 }

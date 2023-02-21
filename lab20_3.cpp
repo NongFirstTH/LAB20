@@ -67,7 +67,6 @@ int main(){
     	sscanf(textline.c_str(),format,s.name,&s.id,s.gender,&s.gpa);
 		allstudents.push_back(s); 		
 	}
-	
 	int state = 1;
 	int i = 0;
 	while(getline(course_file,textline)){
